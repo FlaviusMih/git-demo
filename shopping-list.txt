@@ -5,3 +5,5 @@ lapte
 rosii
 branza
 banane
+capsuni
+bere
